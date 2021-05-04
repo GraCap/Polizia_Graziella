@@ -1,0 +1,16 @@
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.exe
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.deps.json
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.runtimeconfig.json
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.runtimeconfig.dev.json
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\ref\FormeGeometriche.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\bin\Debug\net5.0\FormeGeometriche.pdb
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.csprojAssemblyReference.cache
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.AssemblyInfoInputs.cache
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.AssemblyInfo.cs
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.csproj.CoreCompileInputs.cache
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\ref\FormeGeometriche.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.pdb
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\FormeGeometriche\FormeGeometriche\obj\Debug\net5.0\FormeGeometriche.genruntimeconfig.cache

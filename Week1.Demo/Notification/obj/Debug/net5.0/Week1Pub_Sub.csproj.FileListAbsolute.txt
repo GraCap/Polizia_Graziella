@@ -1,0 +1,16 @@
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\bin\Debug\net5.0\Week1Pub_Sub.exe
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\bin\Debug\net5.0\Week1Pub_Sub.deps.json
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\bin\Debug\net5.0\Week1Pub_Sub.runtimeconfig.json
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\bin\Debug\net5.0\Week1Pub_Sub.runtimeconfig.dev.json
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\bin\Debug\net5.0\Week1Pub_Sub.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\bin\Debug\net5.0\ref\Week1Pub_Sub.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\bin\Debug\net5.0\Week1Pub_Sub.pdb
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\obj\Debug\net5.0\Week1Pub_Sub.csprojAssemblyReference.cache
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\obj\Debug\net5.0\Week1Pub_Sub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\obj\Debug\net5.0\Week1Pub_Sub.AssemblyInfoInputs.cache
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\obj\Debug\net5.0\Week1Pub_Sub.AssemblyInfo.cs
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\obj\Debug\net5.0\Week1Pub_Sub.csproj.CoreCompileInputs.cache
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\obj\Debug\net5.0\Week1Pub_Sub.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\obj\Debug\net5.0\ref\Week1Pub_Sub.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\obj\Debug\net5.0\Week1Pub_Sub.pdb
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Notification\obj\Debug\net5.0\Week1Pub_Sub.genruntimeconfig.cache

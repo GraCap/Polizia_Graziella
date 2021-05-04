@@ -1,0 +1,16 @@
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\bin\Debug\net5.0\Week1.Demo_AccessFile.exe
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\bin\Debug\net5.0\Week1.Demo_AccessFile.deps.json
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\bin\Debug\net5.0\Week1.Demo_AccessFile.runtimeconfig.json
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\bin\Debug\net5.0\Week1.Demo_AccessFile.runtimeconfig.dev.json
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\bin\Debug\net5.0\Week1.Demo_AccessFile.dll
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\bin\Debug\net5.0\ref\Week1.Demo_AccessFile.dll
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\bin\Debug\net5.0\Week1.Demo_AccessFile.pdb
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\obj\Debug\net5.0\Week1.Demo_AccessFile.csprojAssemblyReference.cache
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\obj\Debug\net5.0\Week1.Demo_AccessFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\obj\Debug\net5.0\Week1.Demo_AccessFile.AssemblyInfoInputs.cache
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\obj\Debug\net5.0\Week1.Demo_AccessFile.AssemblyInfo.cs
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\obj\Debug\net5.0\Week1.Demo_AccessFile.csproj.CoreCompileInputs.cache
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\obj\Debug\net5.0\Week1.Demo_AccessFile.dll
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\obj\Debug\net5.0\ref\Week1.Demo_AccessFile.dll
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\obj\Debug\net5.0\Week1.Demo_AccessFile.pdb
+C:\Users\graziella.caputo\Desktop\Avanade\PreAcademy\Settimana 9\PrimiEsempiConsole\Week1.Demo\AccessFile\obj\Debug\net5.0\Week1.Demo_AccessFile.genruntimeconfig.cache

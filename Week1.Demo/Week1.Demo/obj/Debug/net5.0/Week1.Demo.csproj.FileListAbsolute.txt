@@ -1,0 +1,16 @@
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\bin\Debug\net5.0\Week1.Demo.exe
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\bin\Debug\net5.0\Week1.Demo.deps.json
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\bin\Debug\net5.0\Week1.Demo.runtimeconfig.json
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\bin\Debug\net5.0\Week1.Demo.runtimeconfig.dev.json
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\bin\Debug\net5.0\Week1.Demo.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\bin\Debug\net5.0\ref\Week1.Demo.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\bin\Debug\net5.0\Week1.Demo.pdb
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\obj\Debug\net5.0\Week1.Demo.csprojAssemblyReference.cache
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\obj\Debug\net5.0\Week1.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\obj\Debug\net5.0\Week1.Demo.AssemblyInfoInputs.cache
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\obj\Debug\net5.0\Week1.Demo.AssemblyInfo.cs
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\obj\Debug\net5.0\Week1.Demo.csproj.CoreCompileInputs.cache
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\obj\Debug\net5.0\Week1.Demo.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\obj\Debug\net5.0\ref\Week1.Demo.dll
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\obj\Debug\net5.0\Week1.Demo.pdb
+C:\Users\graziella.caputo\Desktop\Settimana 9\PrimiEsempiConsole\Week1.Demo\Week1.Demo\obj\Debug\net5.0\Week1.Demo.genruntimeconfig.cache
